@@ -1,0 +1,3 @@
+rootProject.name = 'twitch_watcher_2419'
+
+include ':app'
